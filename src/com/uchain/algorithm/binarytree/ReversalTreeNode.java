@@ -1,9 +1,10 @@
 package com.uchain.algorithm.binarytree;
 
 /**
- * @description  二叉树遍历树节点
+ * @description  二叉树遍历算法           树节点
  */
 public class ReversalTreeNode {
+
     int val;
 
     ReversalTreeNode left;
