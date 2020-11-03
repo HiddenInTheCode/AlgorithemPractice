@@ -1,4 +1,4 @@
-package com.uchain.algorithm;
+package com.uchain.algorithm.others;
 
 import java.util.concurrent.TimeUnit;
 

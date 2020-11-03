@@ -1,7 +1,6 @@
-package com.uchain.algorithm;
+package com.uchain.algorithm.linklist;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * 输入一个链表，按链表从尾到头的顺序返回一个ArrayList。
@@ -12,11 +11,11 @@ public class NodeReversal {
 
     }
 
-    public static ArrayList<Integer> printListFromTailToHead(ListNode listNode){
+    public static ArrayList<Integer> printListFromTailToHead(ReversalNode reversalNode){
         ArrayList<Integer> list=new ArrayList<Integer>();
-        while(listNode!=null){
-            list.add(0,listNode.val);
-            listNode=listNode.next;
+        while(reversalNode !=null){
+            list.add(0, reversalNode.val);
+            reversalNode = reversalNode.next;
         }
         return list;
     }

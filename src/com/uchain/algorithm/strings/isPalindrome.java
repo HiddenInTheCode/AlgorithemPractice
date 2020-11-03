@@ -1,4 +1,4 @@
-package com.uchain.algorithm;
+package com.uchain.algorithm.strings;
 
 /**
  * 判断一个整数是不是回文数 并且不将该数转换为字符串

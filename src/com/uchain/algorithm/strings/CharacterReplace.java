@@ -1,4 +1,4 @@
-package com.uchain.algorithm;
+package com.uchain.algorithm.strings;
 
 /**
  * 空格替代  输入一个带有空格的字符串，将里面的空格都替换为"%20"

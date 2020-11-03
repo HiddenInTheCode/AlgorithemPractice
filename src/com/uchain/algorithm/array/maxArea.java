@@ -1,4 +1,4 @@
-package com.uchain.algorithm;
+package com.uchain.algorithm.array;
 
 /**
  * 容器盛水最多，输入的是一个数组
