@@ -6,9 +6,6 @@ package com.uchain.algorithm.array;
  * ②创建两个list，将奇数和偶数分别存到这两个list里，然后再赋值给array
  */
 public class reOrderArray {
-    public static void main(String[] args) {
-
-    }
 
     //①
     public void reOrder(int[] array){
