@@ -1,4 +1,4 @@
-package poolsdemo;
+package MultiThread.poolsdemo;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
